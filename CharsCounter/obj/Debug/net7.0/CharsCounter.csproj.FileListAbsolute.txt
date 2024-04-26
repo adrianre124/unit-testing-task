@@ -1,0 +1,12 @@
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\bin\Debug\net7.0\CharsCounter.deps.json
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\bin\Debug\net7.0\CharsCounter.dll
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\bin\Debug\net7.0\CharsCounter.pdb
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.csproj.AssemblyReference.cache
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.AssemblyInfoInputs.cache
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.AssemblyInfo.cs
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.csproj.CoreCompileInputs.cache
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.dll
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\refint\CharsCounter.dll
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\CharsCounter.pdb
+D:\CSharp\EPAM\unit-testing-task\CharsCounter\obj\Debug\net7.0\ref\CharsCounter.dll
